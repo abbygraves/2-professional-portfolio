@@ -53,12 +53,39 @@ header nav ul {
 header nav ul li a {
   padding: 10px 5px;
   margin: 0 25px;
-  font-size: 1.5vw;
+  font-size: 1.75vw;
   font-weight: lighter;
 }
 
 header nav ul li a:hover {
-  border-bottom: 6px solid var(--tertiary-color);
+  border-bottom: 6px solid var(--secondary-color);
 }
 /* HEADER + NAV STYLE END */
+
+/* HERO STYLE START */
+.hero {
+  background-image: url(../images/hero-grid.jpg);
+  height: 450px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  background-attachment: fixed;
+  align-items: flex-start;
+}
+
+.hero-text p {
+  background-color: var(--secondary-color);
+  padding: 5px 30px;
+  border: 3px solid var(--primary-color);
+  border-radius: 2px;  
+  font-size: 32px;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 405px;
+  margin-right: 40px;
+}
+/* HERO STYLE END */
+
 
