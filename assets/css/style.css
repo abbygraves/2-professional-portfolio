@@ -106,12 +106,15 @@ header nav ul li a:hover {
   border-right: 5px solid var(--secondary-color);
   font-size: 32px;
   padding: 20px;
-  margin: 30px 0;
-  width: 15%;
+  margin: 10px;
+  flex: 10%;
+  display: flex;
+  justify-content: center;
 }
 
 .section-content {
-  width: 80%;
+  flex: 80%;
+  margin-left: 20px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -179,5 +182,6 @@ header nav ul li a:hover {
 .work-secondary img:hover {
   opacity: 100%;
 }
-
 /* WORK STYLE END */
+
+/* CONTACT STYLE START */
