@@ -131,6 +131,8 @@ header nav ul li a:hover {
 }
 
 .work-primary p {
+  position: absolute;
+  bottom: -40%;
   background: var(--secondary-color);
   color: var(--primary-color);
   padding: 10px;
@@ -142,6 +144,7 @@ header nav ul li a:hover {
 }
 
 .work-primary img {
+  position: relative;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -173,7 +176,6 @@ header nav ul li a:hover {
 .work-secondary img {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   width: 100%;
   height: 200px;
   opacity: 30%;
