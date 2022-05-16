@@ -149,6 +149,7 @@ header nav ul li a:hover {
   width: 25%;
   padding: 0 20px;
   margin-top: 0px;
+  filter: grayscale(100%);
 }
 
 .about-me p {
