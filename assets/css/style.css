@@ -144,6 +144,24 @@ header nav ul li a:hover {
 /* SECTIONS STYLE END */
 
 
+/* ABOUT ME STYLE START */
+.about-me img {
+  width: 25%;
+  padding: 0 20px;
+  margin-top: 0px;
+}
+
+.about-me p {
+  width: 70%;
+  float: right;
+  margin: 50px 0 40px 0;
+  text-align: left;
+}
+
+/* ABOUT ME STYLE END */
+
+
+
 /* MY WORK STYLE START */
 .main {
   border: 10px solid var(--secondary-color);
@@ -286,7 +304,12 @@ header nav ul li a:hover {
     margin: 0;
     text-align: center;
   }
+
+  .about-me img {
+    margin-top: 100px;
+  }
 }
+
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
