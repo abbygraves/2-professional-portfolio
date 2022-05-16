@@ -9,9 +9,8 @@ The purpose of this project was to build a professional portfolio for myself so 
 
 ## **Built With:**
 + HTML
-+ CSS
-
-<img align="right" src="assets/images/application-screenshot.jpg" />
++ CSS 
+<img align="right" src="assets/images/application-screenshot.png" width="450px" />
 
 <br/>
 
