@@ -3,7 +3,7 @@
 ## **Description**
 The purpose of this project was to build a professional portfolio for myself so that employer's can view my work samples and assess whether I would be a good canidate for an open position.
 
-**Link to deployed Github page ➝** [https://abbygraves.github.io/mod-2-challenge/](https://abbygraves.github.io/mod-2-challenge/)
+**Link to deployed Github page ➝** [https://abbygraves.github.io/2-professional-portfolio/](https://abbygraves.github.io/2-professional-portfolio/)
 
 <br/>
 
