@@ -155,8 +155,10 @@ header nav ul li a:hover {
 .about-me p {
   width: 70%;
   float: right;
-  margin: 50px 0 40px 0;
+  margin: 70px 0 40px 0;
   text-align: left;
+  line-height: 1.8;
+  font-size: 18px;
 }
 
 /* ABOUT ME STYLE END */
@@ -229,6 +231,7 @@ header nav ul li a:hover {
 .text-block span {
   font-size: 12px;
   font-weight: lighter;
+  font-style: italic;
 }
 /* MY WORK STYLE END */
 
