@@ -1,4 +1,4 @@
-# Advanced CSS Challenge: Professional Portfolio
+# Professional Portfolio
 
 ## **Description**
 The purpose of this project was to build a professional portfolio for myself so that employer's can view my work samples and assess whether I would be a good canidate for an open position.
