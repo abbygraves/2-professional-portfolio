@@ -1,19 +1,23 @@
 # Professional Portfolio
 
-## **Description**
-The purpose of this project was to build a professional portfolio for myself so that employer's can view my work samples and assess whether I would be a good canidate for an open position.
+![License: MIT](https://img.shields.io/badge/License-MIT-ffffff.svg)
 
-**Link to deployed Github page ➝** [https://abbygraves.github.io/2-professional-portfolio/](https://abbygraves.github.io/2-professional-portfolio/)
+## **Description**
+### My professional portfolio and resume &nbsp; • &nbsp; [Click Here to View my Portfolio](https://abbygraves.github.io/2-professional-portfolio/)
+
+<br/>
+
+<img src="assets/images/application-screenshot.png" />
 
 <br/>
 
 ## **Built With:**
 + HTML
-+ CSS <img align="right" src="assets/images/application-screenshot.png" width="700px" />
++ CSS 
 
 <br/>
 
-## **What I Did**
+## **Development Overview**
 + Included a decriptpive `<title>` element
 + Created links that scroll to the corresponding section on the page when clicked
 + Provided images to show my work and made them clickable by using an `href=""` attribute 
@@ -24,4 +28,32 @@ The purpose of this project was to build a professional portfolio for myself so 
 + Implemented advanced CSS techniques to acheive a clean and simple yet engaging webpage design 
 + Used media queries to create responsive layouts that adapt to the user's viewport
 
+<br/>
 
+## **License**
+```
+MIT License
+
+
+Copyright (c) 2022 Abigail J. Graves
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+&nbsp;&nbsp;&nbsp; [https://choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit)
