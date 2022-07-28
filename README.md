@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-ffffff.svg)
 
 ## **Description**
-### My professional portfolio and resume &nbsp; • &nbsp; [Click Here to View my Portfolio](https://abbygraves.github.io/2-professional-portfolio/)
+### My professional portfolio and resume &nbsp; • &nbsp; [Click Here to View my Portfolio](http://abbygraves.xyz/)
 
 <br/>
 
